@@ -1,3 +1,5 @@
+# J'ai eu un gros soucis avec GitHub, j'ai réussi à push une fois sur le repo et ensuite plus du tout, j'ai push sur la VM du coup...
+
 # My Habits Tracker (A Buggy Web Application)
 
 # Présentation du projet
