@@ -1,10 +1,10 @@
 # J'ai eu un gros soucis avec GitHub, j'ai réussi à push une fois sur le repo et ensuite plus du tout, j'ai push sur la VM du coup...
 
 # Identifiants aaPanel 
-Internet Address: https://90.80.241.65:34481/ba5d02ad
-aaPanel Internal Address: https://172.16.1.240:34481/ba5d02ad
-username: fybrbva4
-password: ba8306df
+- Internet Address: https://90.80.241.65:34481/ba5d02ad
+- aaPanel Internal Address: https://172.16.1.240:34481/ba5d02ad
+- username: fybrbva4
+- password: ba8306df
 
 La BDD s'appelle habit_tracker et j'avais réussi à déployer sur la VM
 
